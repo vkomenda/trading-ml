@@ -1,0 +1,24 @@
+name: liveproject
+channels:
+  - conda-forge
+dependencies:
+  - autopep8
+  - alphalens-reloaded
+  - conda
+  - empyrical-reloaded
+  - jupyter
+  - lightgbm
+  - matplotlib
+  - pandas
+  - pandas-datareader
+  - pip
+  - pyfolio-reloaded
+  - pytables
+  - python=3.10
+  - scikit-learn
+  - seaborn
+  - shap
+  - statsmodels
+  - ta-lib
+  - tqdm
+  - zipline-reloaded
